@@ -1,0 +1,135 @@
+{
+    "title": "EECS Junior",
+    "summary": "A young, hardworking, dedicated student seeking an internship opportunity that will allow me to utilize my experience in Web and Application Development to help fix problems faced in today's industry. I am always eager to learn new things and will always give my best in everything I do.",
+    "studies": [
+        {
+            "institute": "University of California, Berkeley",
+            "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/UC_Berkeley_Seal_80px.jpg",
+            "url": "https://www.berkeley.edu/",
+            "title": "B.S. Electrical Engineering & Computer Science",
+            "courses": "Structure and Interpretation of Computer Programs, Data Structures and Algorithms (IP), Discrete Mathematics & Probability (I)P, Designing Information Devices and Systems I (IP)",
+            "graduationYear": "Expected 2021"
+        },
+        {
+            "institute": "Diablo Valley College",
+            "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/DVC+Logo.jpg",
+            "url": "https://www.dvc.edu/",
+            "title": "A.S. Computer Science, Mathematics, Physics | GPA: 4.0",
+            "courses": "Advanced Programming in C++, Program Design and Data Structures, Programming with Java, Assembly Language Programming/ Computer Organization",
+            "graduationYear": "Aug 2017 - May 2019"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "PT. Bizzy Indonesia",
+            "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/Bizzy+Logo.png",
+            "url": "https://www.bizzy.co.id/en/",
+            "roles": [
+                {
+                    "title": "Full Stack Software Engineer Intern",
+                    "description": 
+                        "",
+                    "month": "Jun 2019 – Aug 2019 (3 months)",
+                    "location": "Jakarta, Indonesia"
+                }
+            ]
+        },
+        {
+            "companyName": "PT. Global Dinamika Internusa",
+            "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/Ekasbon_burned.png",
+            "url": "https://wirecard.co.id/",
+            "roles": [
+                {
+                    "title": "Software Engineer",
+                    "description": 
+                        "Developed a hybrid-mobile application, E-Kasbon, a platform for loan and payment aggregator using the MVC architecture pattern with Ionic using Cordova, HTML5, Angular.js and RESTful API. Tested and debugged the application using Chrome Developer Tools, Selenium and Appium",
+                    "month": "Aug 2018 (1 month)",
+                    "location": "Jakarta, Indonesia"
+                }
+            ]
+        },
+        {
+            "companyName": "PT. Wirecard Technologies Indonesia",
+            "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/wirecardlogo1.png",
+            "url": "https://wirecard.co.id",
+            "roles": [
+                {
+                    "title": "Product Development Intern",
+                    "description": 
+                        "Reviewed and Improvise the company’s FSD on Banking Corporate that includes Credit Report, Bill Payment, Common Maintenance | Attended Product Knowledge – Corporate Banking Training Seminar | Co-Create an ongoing FSD documentation for local banks in Indonesia",
+                    "month": "Jul 2018 – Aug 2018 (2 months)",
+                    "location": "Jakarta, Indonesia"
+                }
+            ]
+        }
+    ],
+    "workExperience": [
+        {
+          "companyName": "Disability Support Services (DSS)",
+          "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/DVC+Logo.jpg",
+          "roles": [
+              {
+                    "title": "Student Scribe / Aide",
+                    "description": "Act both as an aide and scribe for students with disability during examinations and lectures",
+                    "month": "Feb 2019 - May 2019 (4 months)",
+                    "currentJob": false,
+                    "location": "Diablo Valley College"
+              }
+          ]
+        },
+        {
+          "companyName": "Upward Bound and Education Talent Search",
+          "companyDescription": "Upward Bound and Education Talent Search are two of the eight Federal TRIO Programs. They are a Federal outreach and student services programs designed to identify and provide services for individuals from disadvantaged backgrounds. The programs target to serve and assist low-income individuals, first-generation college students, and individuals with disabilities to progress through the academic pipeline from middle school to postbaccalaureate programs.",
+          "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/DVC+Logo.jpg",
+          "roles": [
+              {
+                "title": "Tutor and Teaching Assistant",
+                "description": 
+                    "For this position, I tutor (after school) and TA'ed (during school hours) at Mount Diablo High School, Concord.",
+                "additional": 
+                    "My job include teaching students different strategies in approaching STEM related subjects. Provided private instruction to individuals or small groups of students to improve academic performance, occupational skills, or prepare for standardized testing. Helped students with their university application while working at the Career and Transfer Services. Tutored students individually and in small groups to reinforce learning concepts after school hours ",
+                "month": "Dec 2017 – May 2019 (1 year 6 months)",
+                "location": "Diablo Valley College"
+              },
+              {
+                "title": "Student Worker",
+                "description": 
+                    "As a student worker, I held different roles. One of them being an academic tutor. I assisted students during Saturday enrichment with their homework. Chaperoned students during college visits and college fairs. Helped acclimate students from middle and high school to the DVC College Campus. Act as an ambassador to help recruit high school students to participate in the program. Worked with my supervisor to improve quality of files and data. Create reports of surveys and workshops",
+                "additional": "Our projects throughout the semester include Image Manipulation in C++, Hangman in Python, Calculator Web Application in HTML, CSS, and JavaScript. ",
+                "month": "Dec 2017 – May 2019 (1 year 6 months)",
+                "location": "Diablo Valley College"
+            }
+          ]
+        }
+      ],
+      "organization": 
+      [
+        {
+            "companyName": "Women in Computer Science (WiCS)",
+            "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/wics.png",
+            "roles": [
+                {
+                    "title": "Vice President of Internal Affairs",
+                    "description": "Women in Computer Science (WiCS) is a student lead organization at Diablo Valley College (DVC). Our mission is to promote and support the growing number of women in the field of Computer Science on and off-campus. During my time as a VP, the club had 58 members and has won 4 awards in Hackathons. We have a mentorship program in which members are paired with their mentors throughout the semester to help them get used to the fundamentals of Computer Science. We also created DVC's first ever 24-hr hackathon.",
+                    "additional": "Our projects throughout the semester include Image Manipulation in C++, Hangman in Python, Calculator Web Application in HTML, CSS, and JavaScript. ",
+                    "month": "Aug 2018 - May 2019 (10 months)",
+                    "location": "Diablo Valley College"
+                }
+            ]
+        },
+        {
+            "companyName": "Indonesian Student Association (INDODVC)",
+            "logo": "https://website-michaelahalim.s3-us-west-1.amazonaws.com/indodvc_burned.png",
+            "roles": [
+                {
+                    "title": "Vice President",
+                    "description": 
+                        "Indonesian Student Association at Diablo Valley College or otherwise known as INDODVC is the sub-chapter of PERMIAS SFBA (the official Indonesian Student Association in the United States directed by the Indonesian Government) which boasts about 150-200 yearly members. This is a club that focuses on building relationships among one another as well as to immerse one's self within the Indonesian culture. In doing so, we are able to create long lasting relationship between one another through the strong bonds that was created within the club that extends even to the future.",
+                    "additional": "In this club, I co-lead a team of 14 individuals. Helped lead weekly meetings and fundraising activities. Organized a semester dinner (PROM Night) for the seniors at Intercontinental Marc Hopkins, San Francisco with over 150 attendant in which we raised a total fund of around USD 8,000 in a span of 3 months for event itself. In addition to that, we also organized a thanksgiving event to Lake Tahoe.",
+                    "month": "Dec 2017 - Dec 2018 (1 year 1 month)",
+                    "location": "Diablo Valley College"
+                }
+            ]
+        }
+    ]
+  }
